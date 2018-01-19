@@ -1,0 +1,70 @@
+Allocation Time (ms): 6.336608
+Initialization Time (ms): 602.799133
+Copy To Device Time (ms): 94.939171
+Kernel Time (ms): 108.928154
+Copy Back and Merge Time (ms): 126.273026
+Deallocation Time (ms): 45.109024
+Test Passed
+Allocation Time (ms): 5.682848
+Initialization Time (ms): 600.325928
+Copy To Device Time (ms): 95.050720
+Kernel Time (ms): 108.814117
+Copy Back and Merge Time (ms): 124.690048
+Deallocation Time (ms): 45.047585
+Test Passed
+Allocation Time (ms): 5.882432
+Initialization Time (ms): 603.618225
+Copy To Device Time (ms): 94.945763
+Kernel Time (ms): 117.559128
+Copy Back and Merge Time (ms): 138.943771
+Deallocation Time (ms): 45.758430
+Test Passed
+Allocation Time (ms): 6.250560
+Initialization Time (ms): 603.640564
+Copy To Device Time (ms): 95.475616
+Kernel Time (ms): 134.012100
+Copy Back and Merge Time (ms): 143.942886
+Deallocation Time (ms): 45.667297
+Test Passed
+Allocation Time (ms): 6.265056
+Initialization Time (ms): 602.556824
+Copy To Device Time (ms): 95.270561
+Kernel Time (ms): 117.207664
+Copy Back and Merge Time (ms): 130.363876
+Deallocation Time (ms): 46.050880
+Test Passed
+Allocation Time (ms): 6.697312
+Initialization Time (ms): 603.643188
+Copy To Device Time (ms): 95.408066
+Kernel Time (ms): 109.920128
+Copy Back and Merge Time (ms): 125.792892
+Deallocation Time (ms): 45.330849
+Test Passed
+Allocation Time (ms): 7.170720
+Initialization Time (ms): 602.120178
+Copy To Device Time (ms): 94.984161
+Kernel Time (ms): 113.204170
+Copy Back and Merge Time (ms): 129.050430
+Deallocation Time (ms): 45.731201
+Test Passed
+Allocation Time (ms): 6.660224
+Initialization Time (ms): 603.555725
+Copy To Device Time (ms): 95.811966
+Kernel Time (ms): 108.823738
+Copy Back and Merge Time (ms): 129.886307
+Deallocation Time (ms): 45.399391
+Test Passed
+Allocation Time (ms): 6.659072
+Initialization Time (ms): 600.298035
+Copy To Device Time (ms): 95.550240
+Kernel Time (ms): 123.757141
+Copy Back and Merge Time (ms): 132.575577
+Deallocation Time (ms): 45.771137
+Test Passed
+Allocation Time (ms): 6.358080
+Initialization Time (ms): 603.651917
+Copy To Device Time (ms): 95.363037
+Kernel Time (ms): 125.061485
+Copy Back and Merge Time (ms): 135.552124
+Deallocation Time (ms): 46.064350
+Test Passed
