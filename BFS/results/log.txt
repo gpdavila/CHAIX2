@@ -1,0 +1,70 @@
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 502.235565
+Allocation Time (ms): 1.871264
+Copy To Device Time (ms): 102.250427
+Kernel Time (ms): 97.631424
+Copy Back and Merge Time (ms): 176.654129
+Deallocation Time (ms): 1.682144
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 512.479980
+Allocation Time (ms): 1.069760
+Copy To Device Time (ms): 93.350121
+Kernel Time (ms): 99.821541
+Copy Back and Merge Time (ms): 175.831451
+Deallocation Time (ms): 2.382976
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 502.696411
+Allocation Time (ms): 1.089920
+Copy To Device Time (ms): 95.154732
+Kernel Time (ms): 97.334213
+Copy Back and Merge Time (ms): 173.216599
+Deallocation Time (ms): 1.714848
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 513.489990
+Allocation Time (ms): 1.625056
+Copy To Device Time (ms): 95.685860
+Kernel Time (ms): 98.117050
+Copy Back and Merge Time (ms): 177.165695
+Deallocation Time (ms): 1.718688
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 497.373901
+Allocation Time (ms): 0.967008
+Copy To Device Time (ms): 98.998772
+Kernel Time (ms): 96.291168
+Copy Back and Merge Time (ms): 172.811508
+Deallocation Time (ms): 1.708096
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 484.249023
+Allocation Time (ms): 1.151808
+Copy To Device Time (ms): 100.957359
+Kernel Time (ms): 100.500198
+Copy Back and Merge Time (ms): 174.824463
+Deallocation Time (ms): 2.407552
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 485.016724
+Allocation Time (ms): 0.964704
+Copy To Device Time (ms): 101.282181
+Kernel Time (ms): 96.248001
+Copy Back and Merge Time (ms): 171.449310
+Deallocation Time (ms): 1.729280
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 507.143341
+Allocation Time (ms): 0.947584
+Copy To Device Time (ms): 104.319756
+Kernel Time (ms): 98.003479
+Copy Back and Merge Time (ms): 174.252884
+Deallocation Time (ms): 2.386336
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 486.928467
+Allocation Time (ms): 0.947872
+Copy To Device Time (ms): 100.620766
+Kernel Time (ms): 95.818405
+Copy Back and Merge Time (ms): 171.451843
+Deallocation Time (ms): 1.791968
+Test Passed
+Number of nodes = 264346	Number of edges = 733846	Initialization Time (ms): 502.968872
+Allocation Time (ms): 0.977696
+Copy To Device Time (ms): 104.438606
+Kernel Time (ms): 98.168228
+Copy Back and Merge Time (ms): 175.744156
+Deallocation Time (ms): 2.379456
+Test Passed
